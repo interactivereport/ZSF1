@@ -1,0 +1,22 @@
+Rat_glomeruli_wk12	Rat_glomeruli_wk20	Rat_glomeruli_wk24	Rat_glomeruli_wk29	Rat_glomeruli_wk34	Rat_glomeruli_wk41	Human_glomeruli_DKD	human_glomeruli_T2D
+Relaxin Signaling	-2	-2.24	-2.24	-2.11	-3.36	-3.15	-2	-2.45
+Complement System	2.12	2.33	2.53	2.11	2.11	2.11	1.89	1.63
+IL-8 Signaling				-1.15	-2.79	-2.56	-3.5	-2.06
+Signaling by Rho Family GTPases	-0.82		-1.13		-3	-2.5	-3.3	-3.27
+Integrin Signaling				-1.9	-2.84	-2.84	-3.27	-2.04
+Thrombin Signaling	-2.24			-2.56	-3.65	-3.54	-3.05	-2.5
+Role of NFAT in Cardiac Hypertrophy	-1.34			-3.13	-3.78	-3.66	-3	-1.9
+VEGF Family Ligand-Receptor Interactions				-1.67	-3.74	-3.5	-2.83	-2.45
+P2Y Purigenic Receptor Signaling Pathway	-0.82		-0.45	-2.36	-3.13	-2.98	-2.83	-2.45
+Glioma Signaling				-2.5	-2.5	-2.5	-2.83	-2.45
+CXCR4 Signaling	-1.63		-0.45	-1.94	-2.68	-2.68	-2.45	-2.33
+Sphingosine-1-phosphate Signaling				-2.11	-2.36	-2.36	-2.45	-2.11
+LXR/RXR Activation	0.71	0.33	1.26	0.83	2.18	2.06	0.9	2
+Acute Phase Response Signaling	0.82	1.67	2.33	2.18	1.79	2.29	1.13	
+eNOS Signaling	-1.34	-1.34	-0.33	-2.5	-3.66	-3.66	-2.33	-1.67
+Nitric Oxide Signaling in the Cardiovascular System	-1.63	-2.24	-1.63	-2.14	-3.27	-3.27	-2.12	-1.89
+p70S6K Signaling	-2.24			-2.32	-3.27	-3.27	-2.12	-1.89
+RhoA Signaling				-1	-1.94	-1.94	-2.11	-2.67
+Thrombopoietin Signaling				-1.67	-2.71	-2.31	-2	-2
+GNRH Signaling				-1.5	-2.36	-2.24	-2	-1.13
+Wnt/Ca+ pathway	-2.24			-1.89	-2.12	-2.33	-2	
