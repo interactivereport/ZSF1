@@ -15,6 +15,9 @@ git add jquery.js jquery.tablesorter.min.js
 git commit -a -m "Added jQuery"
 git push origin gh-pages
 
+# update local copy
+git pull origin gh-pages
+
 # rename file
 git mv QAmiRSeq.html QuickMIRSeq.html
 
