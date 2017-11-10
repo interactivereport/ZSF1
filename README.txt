@@ -1,4 +1,4 @@
-# baohongz / w1
+# baohongz / w!2
 git clone https://github.com/baohongz/MyProject.git
 cd MyProject
 git checkout --orphan gh-pages
