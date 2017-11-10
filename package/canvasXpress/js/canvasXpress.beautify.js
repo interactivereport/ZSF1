@@ -5115,6 +5115,7 @@ CanvasXpress.prototype.initInterface = function() {
 					a.outlineWidth /= 3;
 					a.lineThickness /= 3;
 					a.maxTextSize /= 3;
+					a.overlayScaleFontFactor /=3;
 					a.setDimensions(a.width/3, a.height/3, true);
 				};
 				n.readAsDataURL(e)
@@ -5127,6 +5128,7 @@ CanvasXpress.prototype.initInterface = function() {
 			a.outlineWidth *= 3;
 			a.lineThickness *= 3;
 			a.maxTextSize *= 3;
+			a.overlayScaleFontFactor *=3;
 			a.autoScaleFont = true;
 			a.setDimensions(a.width*3, a.height*3, true);
 
@@ -5159,6 +5161,7 @@ CanvasXpress.prototype.initInterface = function() {
 						a.outlineWidth /= 3;
 						a.lineThickness /= 3;
 						a.maxTextSize /= 3;
+						a.overlayScaleFontFactor /=3;
 						a.setDimensions(a.width/3, a.height/3, true);
 					} else {
 						j(p)
